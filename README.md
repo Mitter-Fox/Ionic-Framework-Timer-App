@@ -12,7 +12,7 @@ A simple stopwatch application which can be efficiently used in Gym puposes. It 
 **Future Scope:**
 Alarms can be set when the time ends.
 
-**Bibliography:** https://github.com/designcourse/ionic-4-crash-course-project-restrr
-***Video Link:*** https://www.youtube.com/watch?v=qTdwUpQRptc
+**Bibliography:** [Github/designcourse](https://github.com/designcourse/ionic-4-crash-course-project-restrr)
+***Video Link:*** [Youtube/DesignCourse](https://www.youtube.com/watch?v=qTdwUpQRptc)
 
-> @ Rohit Mitra
+@Rohit Mitra
