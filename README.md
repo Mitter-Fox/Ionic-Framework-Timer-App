@@ -15,5 +15,4 @@ Alarms can be set when the time ends.
 **Bibliography:** [Github/designcourse](https://github.com/designcourse/ionic-4-crash-course-project-restrr)
 ***Video Link:*** [Youtube/DesignCourse](https://www.youtube.com/watch?v=qTdwUpQRptc)
 
-@Mitter-Fox
-Rohit Mitra
+@Rohit Mitra
